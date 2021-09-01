@@ -67,7 +67,7 @@ public class Ui {
         System.out.println(exception);
         return exception.toString();
     }
-
+  
     /**
      * Prints out a goodbye message.
      * Used when the user exits the program.
